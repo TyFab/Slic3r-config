@@ -1,0 +1,6 @@
+examples/
+# Temp and swap files
+*.swp
+.directory
+# Slic3er ini
+slic3r.ini*
